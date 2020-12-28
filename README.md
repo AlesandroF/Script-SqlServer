@@ -99,4 +99,3 @@ INSERT INTO [Pessoa]
 		   ('Vagner'
            ,990
            ,5)
-GO
